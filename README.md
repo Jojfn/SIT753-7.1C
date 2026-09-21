@@ -22,4 +22,3 @@ job is configured as *Pipeline script from SCM* and polls this repository every 
 This is a mock pipeline: each stage prints the task it performs and the tool that would carry it out.
 
 <!-- Trigger check: commit pushed at 2026-09-21 19:48:17 -->
-Demo commit for 7.1C video
