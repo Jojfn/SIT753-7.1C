@@ -20,3 +20,5 @@ job is configured as *Pipeline script from SCM* and polls this repository every 
 | 7. Deploy to Production | Promote the verified release to production | AWS CodeDeploy (blue/green), Terraform |
 
 This is a mock pipeline: each stage prints the task it performs and the tool that would carry it out.
+
+<!-- Trigger check: commit pushed at 2026-09-21 19:48:17 -->
